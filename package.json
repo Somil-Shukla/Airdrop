@@ -1,0 +1,24 @@
+{
+  "name": "airdrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Somil-Shukla/Airdrop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Somil-Shukla/Airdrop/issues"
+  },
+  "homepage": "https://github.com/Somil-Shukla/Airdrop#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2"
+  },
+  "devDependencies": {}
+}
